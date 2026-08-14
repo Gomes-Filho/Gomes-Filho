@@ -11,7 +11,7 @@ Biomédico e pesquisador em **Biologia Humana e Experimental**, com atuação em
 
 ## 🔗 Links
 
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-0B5FA5?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/2155068450054274)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-0B5FA5?style=for-the-badge&logo=academia&logoColor=white)](https://lattes.cnpq.br/2155068450054274)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9065-2680)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pericles-fabricio-gomes-filho/)
 
@@ -64,4 +64,4 @@ Biomédico e pesquisador em **Biologia Humana e Experimental**, com atuação em
 - 📧 pericles.fabricio5@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/pericles-fabricio-gomes-filho/)
 - 🆔 [ORCID](https://orcid.org/0000-0002-9065-2680)
-- 📑 [Lattes](http://lattes.cnpq.br/2155068450054274)
+- 📑 [Lattes](https://lattes.cnpq.br/2155068450054274)
