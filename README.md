@@ -25,7 +25,7 @@ Biomedical scientist and researcher in **Human and Experimental Biology**, worki
 | 2024–2026 | M.Sc. in Human and Experimental Biology — *Dapagliflozin (an SGLT2 Inhibitor) Alters Hepatic Morphophysiology in Mice Fed a High-Fat Diet Supplemented with Fructose* | UERJ |
 | 2022–2023 | Postgraduate Specialization in Clinical and Toxicological Analysis | UniAmérica |
 | 2022–2023 | Postgraduate Specialization in Hematology and Hemotherapy | UniAmérica |
-| 2021–2022 | B.Sc. in Biomedicine | UNIGRANRIO |
+| 2022 | B.Sc. in Biomedicine | UNIGRANRIO |
 
 ---
 
