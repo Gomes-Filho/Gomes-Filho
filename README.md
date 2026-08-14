@@ -21,7 +21,7 @@ Biomedical scientist and researcher in **Human and Experimental Biology**, worki
 
 | Period | Degree | Institution |
 |---|---|---|
-| 2026 (expected) | Ph.D. in Human and Experimental Biology — *Modulation of Neuroinflammation and Microglial Response by Cannabidiol in a Murine Model of Hepatic Encephalopathy* | UERJ |
+| 2030 (expected) | Ph.D. in Human and Experimental Biology — *Modulation of Neuroinflammation and Microglial Response by Cannabidiol in a Murine Model of Hepatic Encephalopathy* | UERJ |
 | 2024–2026 | M.Sc. in Human and Experimental Biology — *Dapagliflozin (an SGLT2 Inhibitor) Alters Hepatic Morphophysiology in Mice Fed a High-Fat Diet Supplemented with Fructose* | UERJ |
 | 2022–2023 | Postgraduate Specialization in Clinical and Toxicological Analysis | UniAmérica |
 | 2022–2023 | Postgraduate Specialization in Hematology and Hemotherapy | UniAmérica |
